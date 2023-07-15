@@ -1,4 +1,19 @@
-body {
+
+:root {
+    /* Fonts */
+    --primary-font: "Montserrat", sans-serif;
+    /* Colors */
+    --main-cl: #111111;
+    --main-cl-60: rgba(17, 17, 17, 0.6);
+    --main-cl-70: rgba(17, 17, 17, 0.7);
+    --accent-cl: #fd9222;
+    --violet-cl: #1e1823;
+    --beige-cl: #fcf1e0;
+    --light-cl: #fafafa;
+    --gray-cl: #4c4c4c;
+    --white-cl: #ffffff;
+    --white-cl-70: rgba(255, 255, 255, 0.7);
+  }body {
     font-family: "Roboto", sans-serif;
     color: #434455
     background-color: #FFFFFF;
