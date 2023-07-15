@@ -1,0 +1,38 @@
+body {
+    font-family: "Roboto";
+}
+
+.link {
+text-decoration: none;
+}
+
+[type] {
+color: 4D5AE5
+}
+.header-logo {
+    color: blue;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+}
+
+.list {
+    list-style-type: none;
+}
+.header-logo-web {
+    font-family: "Raleway", sans-serif;
+    color: tomato;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+
+}
+.studio-web {
+    color: navy;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5 em;
+    letter-spacing: 0.02em
+}
