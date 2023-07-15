@@ -36,3 +36,50 @@ color: 4D5AE5
     line-height: 1.5 em;
     letter-spacing: 0.02em
 }
+
+.hero {
+    background-color: rgba(17, 17,17, 0.6);
+}
+.hero-solution {
+    color: white;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.071;
+    letter-spacing: 0.03em;
+}
+.order {
+    font-family: inherit;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+  .Strategy {
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+  }
+  .Strategy-item {
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+  }
