@@ -45,6 +45,7 @@ color: 4D5AE5
     letter-spacing: 0.02em
 }
 .contact:hover {
+  font-family: "Roboto";
     color: tomato;
 }
 
