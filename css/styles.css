@@ -15,12 +15,13 @@ text-decoration: none;
 [type] {
 color: 4D5AE5
 }
-.header-logo {
+.header-logo-item {
     color: blue
-    font-family: "Roboto";
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
-    font-weight: 800;
-    line-height: 1.16;
+    font-weight: 800px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 
@@ -36,6 +37,11 @@ color: 4D5AE5
     letter-spacing: 0.03em;
 
 }
+.header-logo-web:hover {
+  color: #4d5ae5;
+}
+
+
 .studio-web {
   font-family: "Roboto";
     color: navy;
