@@ -16,7 +16,8 @@ text-decoration: none;
 color: 4D5AE5
 }
 .header-logo {
-    color: blue;
+    color: blue
+    font-family: "Roboto";
     font-size: 18px;
     font-weight: 800;
     line-height: 1.16;
@@ -36,6 +37,7 @@ color: 4D5AE5
 
 }
 .studio-web {
+  font-family: "Roboto";
     color: navy;
     font-size: 16px;
     font-weight: 500;
@@ -50,6 +52,7 @@ color: 4D5AE5
     background-color: rgba(17, 17,17, 0.6);
 }
 .hero-solution {
+  font-family: "Roboto";
     color: white;
     font-size: 56px;
     font-weight: 700;
@@ -57,6 +60,7 @@ color: 4D5AE5
     letter-spacing: 0.03em;
 }
 .order {
+  font-family: "Roboto";
     font-family: inherit;
     color: white;
     font-size: 16px;
@@ -66,6 +70,7 @@ color: 4D5AE5
 }
 
 .visually-hidden {
+  font-family: "Roboto";
     position: absolute;
     width: 1px;
     height: 1px;
@@ -79,6 +84,7 @@ color: 4D5AE5
     overflow: hidden;
   }
   .Strategy {
+    font-family: "Roboto";
     color: blue;
     font-size: 20px;
     font-weight: 500;
@@ -86,6 +92,7 @@ color: 4D5AE5
     letter-spacing: 0.02em;
   }
   .Strategy-item {
+    font-family: "Roboto";
     color: aquamarine;
     font-size: 16px;
     font-weight: 400;
@@ -93,6 +100,7 @@ color: 4D5AE5
     letter-spacing: 0.02em;
   }
   .what {
+    font-family: "Roboto";
     color: blue;
     font-size: 36px;
     font-weight: 700;
@@ -100,6 +108,7 @@ color: 4D5AE5
     letter-spacing: 0.02em;
   }
   .team {
+    font-family: "Roboto";
     color: blue;
     font-size: 36px;
     font-weight: 700;
@@ -107,6 +116,7 @@ color: 4D5AE5
     letter-spacing: 0.02em;
   }
   .team-item {
+    font-family: "Roboto";
     color: blue;
     font-size: 36px;
     font-weight: 700;
@@ -114,6 +124,7 @@ color: 4D5AE5
     letter-spacing: 0.02em;
   }
   .footer-item {
+    font-family: "Roboto";
     color: white;
     font-size: 16px;
     font-weight: 400;
