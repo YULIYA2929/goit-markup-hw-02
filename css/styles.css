@@ -1,7 +1,6 @@
-
-
 .body {
-    font-family: "Roboto", sans-serif;
+
+  font-family: "Roboto", sans-serif;
     color: #434455
     background-color: #FFFFF;
 }
@@ -11,7 +10,9 @@ text-decoration: none;
 }
 
 [type] {
-color: 4D5AE5
+
+color: 4D5AE5;
+
 }
 
 .header-logo-item {
