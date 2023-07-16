@@ -1,7 +1,9 @@
+:root {
+  --main-cl: #111111;
+}
 .body {
-
-  font-family: "Roboto", sans-serif;
-  color: #434455
+font-family: "Roboto", sans-serif;
+  color: var(: #111111);
   background-color: #FFFFF;
 }
 
