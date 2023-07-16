@@ -35,12 +35,14 @@ color: 4D5AE5;
     color: tomato;
     font-size: 18px;
     font-weight: 800;
-    line-height: 1.167;
+    line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase
 
 }
 .header-logo-web:hover {
   color: #4d5ae5;
+  background-color: #2e2f42;
 }
 
 
@@ -52,6 +54,7 @@ color: 4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.02em
 }
+
 .contact:hover {
   font-family: "Roboto";
     color: tomato;
@@ -135,9 +138,9 @@ color: 4D5AE5;
 
   .footer-item {
     background-color: #2e2f42;
-    font-family: "Roboto";
+    font-family: 'Raleway', sans-serif,;
     color: white;
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 800px;
     letter-spacing: 0.02em;
   }
