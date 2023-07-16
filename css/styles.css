@@ -150,3 +150,6 @@ color: 4D5AE5;
   .header-logo-studio {
 color: #f4f4fd ;
   }
+  .header-logo-studio:hover {
+    color: #4d5ae5;
+  }
