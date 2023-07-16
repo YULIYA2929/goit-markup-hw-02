@@ -32,7 +32,7 @@ color: 4D5AE5;
 }
 .header-logo-web {
     font-family: "Raleway", sans-serif;
-    color: tomato;
+    color: #4d5ae5;
     font-size: 18px;
     font-weight: 800;
     line-height: 1.17;
@@ -61,7 +61,7 @@ color: 4D5AE5;
 }
 
 .hero {
-    background-color: rgba(17, 17,17, 0.6);
+    background-color: #2e2f42 
 }
 .hero-solution {
   font-family: "Roboto";
