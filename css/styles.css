@@ -52,16 +52,24 @@ color: 4D5AE5;
 
 .studio-web {
   font-family: "Roboto";
-    color: navy;
+    color: #404bbf;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em
 }
+.studio-web : :hover {
+  color: #404bbf; 
+}
+.contact-adress-list {
+  color: #434455;
+  font-style: normal
 
-.contact:hover {
+}
+
+.contact-adress-list:hover {
   font-family: "Roboto";
-    color: tomato;
+    color: #404bbf;
 }
 
 .hero {
@@ -175,12 +183,16 @@ color: #f4f4fd ;
   .list-style: none
 
   .header-studio-content {
-    color: #4d5ae5;
+    color: #2e2f42 ;
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+
+  }
+  .header-studio-content: :hover {
+    color: #404bbf; 
 
   }
