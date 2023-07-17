@@ -163,13 +163,13 @@ color: #f4f4fd ;
     text-transform: uppercase
   }
   .header-logo-content {
-    font-family:"Raleway", sans-serif
+    font-family: "Raleway", sans-serif; 
     color: #2e2f42;
-    font-weight: 800
-    font-size: 18px 
-    line-height: 1.17
-    letter-spacing: 0.03em 
-    text-transform: uppercase
+    font-weight: 800;
+    font-size: 18px; 
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
   }
   
   .list-style: none
