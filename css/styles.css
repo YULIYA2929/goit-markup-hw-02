@@ -100,21 +100,12 @@ color: 4D5AE5;
   background-color: #404BBF
 }
 
-.visually-hidden {
+.visually-hidden { 
   font-family: "Roboto";
   font-weight: 500
   color: #2e2f42;
-    position: absolute;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-  }
+}
+   
   .Strategy {
     font-family: "Roboto";
     color: blue;
