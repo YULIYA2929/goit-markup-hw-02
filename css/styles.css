@@ -106,12 +106,12 @@ color: 4D5AE5;
   color: #2e2f42;
 }
    
-  .Strategy {
+  .Strategy-hidden-web {
     font-family: "Roboto";
-    color: blue;
+    color: #2e2f42;
     font-size: 20px;
     font-weight: 500px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
   }
   .Strategy-item {
@@ -203,5 +203,13 @@ letter-spacing: 0.03em;
   }
   .header-studio-content: :hover {
     color: #404bbf; 
+
+  }
+
+  .visually-hidden-web {
+    font-size: 16px 
+    line-height: 1.5
+    letter-spacing: 0.02em
+    color: #434455
 
   }
