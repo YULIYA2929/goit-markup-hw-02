@@ -122,10 +122,10 @@ color: 4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
-  .what {
+  .what-doing-item {
     font-family: "Roboto";
-    color: blue;
-    font-size: 36px;
+    color: #2e2f42
+    font-size: 36px
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
