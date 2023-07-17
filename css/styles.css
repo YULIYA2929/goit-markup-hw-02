@@ -160,18 +160,21 @@ color: 4D5AE5;
     letter-spacing: 0.02em;
   }
   .header-logo-studio {
-color: #f4f4fd ;
+color: #4d5ae5 ;
+text-transform: uppercase;
+letter-spacing: 0.03em;
+
   }
   .header-logo-studio:hover {
     color: #4d5ae5;
   }
   .header-logo-hero {
-    font-family:"Raleway",sans-serif
+    font-family:"Raleway", sans-serif; 
     color: #4d5ae5;
     font-weight: 800;
     font-size: 18px; 
     line-height: 1.17;
-    letter-spacing: 0.03em 
+    letter-spacing: 0.03em;  
     text-transform: uppercase
   }
   .header-logo-content {
