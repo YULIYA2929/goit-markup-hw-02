@@ -10,6 +10,10 @@ body {
   
 }
 
+button {
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+}
 .link {
 text-decoration: none;
 }
@@ -218,4 +222,45 @@ letter-spacing: 0.03em;
     letter-spacing: 0.02em
     color: #434455
 
+  }
+
+  .all-buton-class {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5 ;
+    letter-spacing: 0.04em;
+    color:#4d5ae5;
+    background-color: #F4F4FD;
+    
+  }
+  .all-buton-class: hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+  }
+
+  .all-buton-class: :focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+
+
+  }
+
+  .images {
+    width: 360px;
+  }
+  .Banking-App-Interface {
+    font-weight: 500
+    font-size: 20px
+    line-height: 1.2
+    letter-spacing: 0.02em
+    color: #2e2f42 
+
+  }
+  .app-text-interfase{
+    font-size: 16px
+    line-height: 1.5
+    letter-spacing: 0.02em
+    color: #434455
+    text-decoration: none
   }
