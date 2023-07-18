@@ -236,18 +236,13 @@ letter-spacing: 0.03em;
   }
   
 
-  .all-buton-class: hover {
+  .all-buton-class: hover,
+  .all-buton-class: focus {
     color: #FFFFFF;
-    background-color: #404BBF;
+    background-color: #404BBF ;
   }
   
 
-  .all-buton-class: :focus {
-    color: #FFFFFF;
-    background-color: #404BBF;
-
-
-  }
 
   .images {
     width: 360px;
