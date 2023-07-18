@@ -234,10 +234,13 @@ letter-spacing: 0.03em;
     background-color: #F4F4FD;
     
   }
+  
+
   .all-buton-class: hover {
     color: #FFFFFF;
     background-color: #404BBF;
   }
+  
 
   .all-buton-class: :focus {
     color: #FFFFFF;
