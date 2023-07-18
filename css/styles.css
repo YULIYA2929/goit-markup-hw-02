@@ -236,8 +236,8 @@ letter-spacing: 0.03em;
   }
   
 
-  .all-buton-class: hover,
-  .all-buton-class: focus {
+  .btn: hover,
+  .btn: focus {
     color: #FFFFFF;
     background-color: #404BBF;
   }
