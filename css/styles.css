@@ -88,16 +88,22 @@ color: 4D5AE5;
 .order {
   font-family: "Roboto";
     font-family: inherit;
-    background-color: #4D5AE5 
-    color: white;
+    background-color: #F4F4FD
+    color: #4d5ae5;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer
 }
 
 .order:hover {
+  color: #FFFFFF;
   background-color: #404BBF
+}
+.order: focus {
+color: #404BBF
+background-color: #404BBF
 }
 
 .visually-hidden { 
