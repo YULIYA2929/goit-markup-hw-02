@@ -250,17 +250,17 @@ letter-spacing: 0.03em;
     width: 360px;
   }
   .Banking-App-Interface {
-    font-weight: 500
-    font-size: 20px
-    line-height: 1.2
-    letter-spacing: 0.02em
-    color: #2e2f42 
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
 
   }
   .app-text-interfase{
-    font-size: 16px
-    line-height: 1.5
-    letter-spacing: 0.02em
-    color: #434455
-    text-decoration: none
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
   }
