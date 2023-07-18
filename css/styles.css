@@ -202,8 +202,8 @@ letter-spacing: 0.03em;
   
 
   .header-studio-content {
-    font-family: "Raleway", sans-serif;
-    color: #2e2f42 ;
+    font-family:"Raleway",sans-serif;
+    color: #2e2f42;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -211,8 +211,8 @@ letter-spacing: 0.03em;
     text-transform: uppercase;
 
   }
-  
-  .header-studio-content: :hover {
+
+  .header-studio-content:hover {
     color: #404bbf; 
 
   }
