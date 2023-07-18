@@ -239,7 +239,7 @@ letter-spacing: 0.03em;
   .all-buton-class: hover,
   .all-buton-class: focus {
     color: #FFFFFF;
-    background-color: #404BBF ;
+    background-color: #404BBF;
   }
   
 
@@ -247,7 +247,7 @@ letter-spacing: 0.03em;
   .images {
     width: 360px;
   }
-  .Banking-App-Interface {
+  .banking-app-interface {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -255,7 +255,7 @@ letter-spacing: 0.03em;
     color: #2e2f42 ;
 
   }
-  .app-text-interfase{
+  .app-text-interfase {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
