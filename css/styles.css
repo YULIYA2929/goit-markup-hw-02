@@ -202,8 +202,8 @@ letter-spacing: 0.03em;
   
 
   .header-studio-content {
-    color: #2e2f42 ;
     font-family: "Raleway", sans-serif;
+    color: #2e2f42 ;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -211,6 +211,7 @@ letter-spacing: 0.03em;
     text-transform: uppercase;
 
   }
+  
   .header-studio-content: :hover {
     color: #404bbf; 
 
@@ -244,9 +245,6 @@ letter-spacing: 0.03em;
   
 
 
-  .images {
-    width: 360px;
-  }
   .banking-app-interface {
     font-weight: 500;
     font-size: 20px;
