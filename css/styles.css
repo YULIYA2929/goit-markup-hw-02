@@ -35,7 +35,7 @@ color: 4D5AE5;
  }
 
 .list {
-    list-style-type: none;
+    list-style: none;
 }
 .header-logo-web {
     font-family: "Raleway", sans-serif;
