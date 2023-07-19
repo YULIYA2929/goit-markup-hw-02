@@ -99,7 +99,7 @@ color: 4D5AE5;
 .order {
   font-family: "Roboto";
     font-family: inherit;
-    background-color: #4D5AE5 
+    background-color: #4D5AE5;
     color: #ffffff;
     font-size: 16px;
     font-weight: 500;
@@ -108,8 +108,12 @@ color: 4D5AE5;
     cursor: pointer
 }
 
-.order:hover,
- focus {
+.order:hover {
+  color: #FFFFFF;
+  background-color: #404BBF 
+}
+
+.order:focus {
   color: #FFFFFF;
   background-color: #404BBF
 }
