@@ -72,9 +72,15 @@ color: 4D5AE5;
 
 }
 
-.contact-adress-list:hover {
+.contact-adress-tel {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.contact-adress-list:hover,
+:focus {
   font-family: "Roboto";
-    color: #404bbf;
+  color: #404bbf;
 }
 
 .hero {
