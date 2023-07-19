@@ -130,14 +130,13 @@ color: 4D5AE5;
     letter-spacing: 0.02em;
   }
   .what-doing-item {
-    font-family: "Roboto";
-    color: #2e2f42
-    font-size: 36px
+   color: #2e2f42
+    font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center
-    text-transform: capitalize
+    text-transform: capitalize; 
   }
   .team-strategy-item {
     font-family: "Roboto";
