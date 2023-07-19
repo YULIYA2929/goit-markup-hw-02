@@ -115,10 +115,9 @@ color: 4D5AE5;
 }
    
   .strategy-hidden-web {
-    font-family: "Roboto";
     color: #2e2f42;
     font-size: 20px;
-    font-weight: 500px;
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
   }
