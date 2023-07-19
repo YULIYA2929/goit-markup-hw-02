@@ -58,18 +58,17 @@ color: 4D5AE5;
 
 .studio-web {
   font-family: "Roboto";
-    color: #404bbf;
+    color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em
 }
-.studio-web : :hover {
+.studio-web:hover {
   color: #404bbf; 
 }
 .contact-adress-list {
-  color: #434455;
-  font-style: normal
+  font-style: normal; 
 
 }
 
@@ -146,7 +145,6 @@ color: 4D5AE5;
 .team-strategy-item {
   color: #2e2f42;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
