@@ -86,16 +86,17 @@ color: 4D5AE5;
 .hero {
     background-color: #2e2f42 
 }
+
+
 .hero-solution {
   font-family: "Roboto";
-    color: white;
-    text-align: center
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
+
 .order {
   font-family: "Roboto";
     font-family: inherit;
