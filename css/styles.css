@@ -92,8 +92,8 @@ color: 4D5AE5;
 .order {
   font-family: "Roboto";
     font-family: inherit;
-    background-color: #F4F4FD
-    color: #4d5ae5;
+    background-color: #4D5AE5 
+    color: #ffffff;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -101,14 +101,12 @@ color: 4D5AE5;
     cursor: pointer
 }
 
-.order:hover {
+.order:hover,
+ focus {
   color: #FFFFFF;
   background-color: #404BBF
 }
-.order: focus {
-color: #404BBF
-background-color: #404BBF
-}
+
 
 .visually-hidden { 
   font-family: "Roboto";
@@ -188,13 +186,8 @@ letter-spacing: 0.03em;
     text-transform: uppercase
   }
   .header-logo-content {
-    font-family: "Raleway", sans-serif; 
-    color: #2e2f42;
-    font-weight: 800;
-    font-size: 18px; 
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+     color: #2e2f42;
+  
   }
   
   .list-style: none
