@@ -247,13 +247,12 @@ text-transform: uppercase;
   }
   
 
-
-  .btn: hover,
-  .btn: focus {
-    color: #FFFFFF;
-    background-color: #404BBF;
-  }
-  
+.all-buton-class :hover,
+.all-buton-class :focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+ 
 
   .banking-app-interface {
     font-weight: 500;
