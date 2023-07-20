@@ -135,13 +135,14 @@ color: 4D5AE5;
   color: #2e2f42;
 }
    
-  .strategy-hidden-web {
+  .strategy-text-web {
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
   }
+
   .strategy-hidden-item {
     font-family: "Roboto";
     color: #434455; 
