@@ -16,7 +16,7 @@ button {
 }
 
 .list {
-  list-style: none;
+list-style: none;
 }
 .link {
 text-decoration: none;
@@ -64,9 +64,14 @@ color: 4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.02em
 }
-.studio-web:hover {
+.studio-web:hover,
+:focus {
   color: #404bbf; 
 }
+
+
+}
+
 .contact-adress-list {
   font-style: normal; 
 
@@ -232,8 +237,6 @@ text-transform: uppercase;
 
   }
 
-  
-
   .all-buton-class {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -252,7 +255,6 @@ text-transform: uppercase;
     background-color: #404BBF;
   }
   
-
 
   .banking-app-interface {
     font-weight: 500;
