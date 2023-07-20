@@ -2,7 +2,7 @@
   --main-cl: #111111;
 }
 
-body {
+.body {
 
   font-family: "Roboto", sans-serif; 
   color: #434455; 
@@ -10,7 +10,7 @@ body {
   
 }
 
-button {
+.button {
   font-family: "Roboto", sans-serif;
   cursor: pointer;
 }
@@ -28,16 +28,16 @@ color: 4D5AE5;
 
 }
 
-.header-logo-item {
-    color: blue
-    text-transform: uppercase;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 800px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
- }
 
+.header-logo-item {
+  color: #404BBF;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
 
 .header-logo-text {
   font-family: 'Raleway', sans-serif;
@@ -120,9 +120,10 @@ color: 4D5AE5;
 }
 
 
-.visually-hidden { 
+
+.visually-hidden {
   font-family: "Roboto";
-  font-weight: 500
+  font-weight: 500;
   color: #2e2f42;
 }
    
@@ -150,16 +151,17 @@ color: #434455;
 
   }
 
+  
+
   .what-doing-item {
-   color: #2e2f42
+    color: #2e2f42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center
-    text-transform: capitalize; 
+    text-align: center;
+    text-transform: capitalize;
   }
-
 
 .team-strategy-item {
   color: #2e2f42;
@@ -215,14 +217,17 @@ letter-spacing: 0.03em;
 
   
 
-  .header-studio-content {
-    font-family:"Raleway", sans-serif;
-    color: #4d5ae5;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase
+
+
+.header-studio-content {
+font-family: "Raleway", sans-serif;
+color: #4d5ae5;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
   }
 
   .header-studio-content:hover {
