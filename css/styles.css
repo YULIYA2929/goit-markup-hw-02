@@ -69,24 +69,22 @@ color: 4D5AE5;
   color: #404bbf; 
 }
 
-
-}
-
 .contact-adress-list {
-  font-style: normal; 
-
+  font-style: normal;
 }
+
 
 .contact-adress-tel {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.contact-adress-list:hover,
+.contact-adress-malto :hover
 :focus {
-  font-family: "Roboto";
   color: #404bbf;
+  
 }
+
 .contact-adress-mail {
   font-size: 16px;
   line-height: 1.5;
@@ -249,6 +247,7 @@ text-transform: uppercase;
   }
   
 
+
   .btn: hover,
   .btn: focus {
     color: #FFFFFF;
@@ -263,7 +262,8 @@ text-transform: uppercase;
     letter-spacing: 0.02em;
     color: #2e2f42 ;
 
-  }
+}
+
   .app-text-interfase {
     font-size: 16px;
     line-height: 1.5;
