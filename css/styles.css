@@ -2,7 +2,7 @@
   --main-cl: #111111;
 }
 
-.body {
+body {
 
   font-family: "Roboto", sans-serif; 
   color: #434455; 
@@ -10,7 +10,7 @@
   
 }
 
-.button {
+button {
   font-family: "Roboto", sans-serif;
   cursor: pointer;
 }
