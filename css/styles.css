@@ -79,10 +79,10 @@ color: 4D5AE5;
   letter-spacing: 0.02em;
 }
 
-.contact-adress-malto :hover
+.contact-adress-malto :hover, 
 :focus {
   color: #404bbf;
-  
+
 }
 
 .contact-adress-mail {
