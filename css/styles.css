@@ -82,6 +82,14 @@ color: 4D5AE5;
   font-family: "Roboto";
   color: #404bbf;
 }
+.contact-adress-mail {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+
+}
 
 .hero {
     background-color: #2e2f42 
