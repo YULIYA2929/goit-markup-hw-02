@@ -141,6 +141,7 @@ color: 4D5AE5;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    list-style: none;
   }
 
   .strategy-hidden-item {
@@ -152,13 +153,13 @@ color: 4D5AE5;
     letter-spacing: 0.02em;
   }
 
-  .strategy-hidden-text {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.2em;
-color: #434455;
-
-  }
+   .strategy-hidden-text {
+   color: #434455; 
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.2em;
+   
+   }
 
   
 
@@ -238,13 +239,7 @@ text-transform: uppercase;
 
   }
 
-  .visually-hidden-web {
-    font-size: 16px 
-    line-height: 1.5
-    letter-spacing: 0.02em
-    color: #434455
-
-  }
+  
 
   .all-buton-class {
     font-family: "Roboto", sans-serif;
