@@ -64,9 +64,13 @@ color: 4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.02em
 }
-.studio-web:hover,
-:focus {
+
+
+.studio-web:hover {
   color: #404bbf; 
+}
+.studio-web:focus {
+  color: #404bbf;
 }
 
 .contact-adress-list {
