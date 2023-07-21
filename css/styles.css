@@ -79,7 +79,17 @@ color: 4D5AE5;
   letter-spacing: 0.02em;
 }
 
-.contact-adress-malto :hover, 
+.contact-adress-malto {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contact-adress-malto:hover {
+  color: #404bbf;
+}
+
+ 
 .contact-adress-malto:focus {
   color: #404bbf;
 
