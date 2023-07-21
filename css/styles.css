@@ -246,11 +246,11 @@ text-transform: uppercase;
     
   }
   
-.all-buton-class :hover {
+.all-buton-class:hover {
   color: #FFFFFF;
   background-color: #404BBF;
 }
-.all-buton-class :focus {
+.all-buton-class:focus {
   color: #FFFFFF;
   background-color: #404BBF;
 }
