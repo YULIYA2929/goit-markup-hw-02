@@ -108,6 +108,14 @@ color: 4D5AE5;
 
 }
 
+.contact-adress-mail:hover {
+  color: #404bbf;
+}
+
+.contact-adress-mail:focus {
+  color: #404bbf;
+}
+
 .hero {
     background-color: #2e2f42 
 }
