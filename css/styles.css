@@ -70,7 +70,7 @@ text-decoration: none;
 }
 
 .header-logo-text {
-  font-family: inherit;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -228,7 +228,7 @@ letter-spacing: 0.03em;
     color: var(--main-cl);
   }
   .header-logo-hero {
-    font-family: inherit;
+    font-family: "Raleway", sans-serif;
     color: var(--main-cl);
     font-weight: 800;
     font-size: 18px; 
